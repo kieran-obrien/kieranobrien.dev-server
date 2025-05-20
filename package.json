@@ -1,0 +1,27 @@
+{
+  "name": "kieranobrien.dev-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kieran-obrien/kieranobrien.dev-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kieran-obrien/kieranobrien.dev-server/issues"
+  },
+  "homepage": "https://github.com/kieran-obrien/kieranobrien.dev-server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-extended": "^5.0.2"
+  }
+}
